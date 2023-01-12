@@ -43,6 +43,7 @@ public class Main {
             Intro test = new Intro();
             test.Begrüßung();
         } else if (a == 2) {
+            System.out.println("Das hat mir mein Lehrer noch nicht gezeigt.... :(");
             ConsoleFlush.flush();
             Dia.main(args);
         } else if (a == 3) {

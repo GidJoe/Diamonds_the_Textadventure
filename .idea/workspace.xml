@@ -1,28 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b677cd6c-b086-485a-ae5f-dc1115f49674" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spiel_Diamonds.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Badezimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsoleFlush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiaGefunden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Flur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kampf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kinderzimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Küche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Outro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Partyraum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Schlafzimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spielzimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Wohnzimmer.java" afterDir="false" />
+    <list default="true" id="b677cd6c-b086-485a-ae5f-dc1115f49674" name="Changes" comment="RLS 1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +22,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cisco\IdeaProjects\Spiel_Diamonds\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,11 +48,31 @@
       <option name="presentableId" value="Default" />
       <updated>1673511451476</updated>
       <workItem from="1673511452593" duration="20000" />
-      <workItem from="1673511639812" duration="1350000" />
+      <workItem from="1673511639812" duration="1462000" />
+      <workItem from="1673513136962" duration="459000" />
     </task>
+    <task id="LOCAL-00001" summary="RLS 1.0">
+      <created>1673513105274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673513105274</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RLS 1.0">
+      <created>1673513115205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673513115205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RLS 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="RLS 1.0" />
   </component>
 </project>
