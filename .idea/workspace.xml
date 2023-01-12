@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b677cd6c-b086-485a-ae5f-dc1115f49674" name="Changes" comment="" />
+    <list default="true" id="b677cd6c-b086-485a-ae5f-dc1115f49674" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spiel_Diamonds.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Badezimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsoleFlush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiaGefunden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Flur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kampf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kinderzimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Küche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Outro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Partyraum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Schlafzimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spielzimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Wohnzimmer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KDa8vppMoiYZoHxcYoFmVyVSlp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,14 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,7 +57,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673511451476</updated>
+      <workItem from="1673511452593" duration="20000" />
+      <workItem from="1673511639812" duration="1350000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
